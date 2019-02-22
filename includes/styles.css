@@ -1,0 +1,24 @@
+﻿.content {
+    max-width: 680px;
+    margin: 50px auto;
+    padding: 30px 40px;
+    text-align: center;
+    border: 4px solid #ef1b36;
+    font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.article {
+    padding: 40px;
+    line-height: 150%;
+    text-align: left;
+    font-family: Helvetica, Arial, Sans-Serif;
+}
+
+nav .item {
+    text-decoration: none;
+}
+
+nav .active {
+    border-bottom: 1px solid #ef1b36;
+    border: 4px solid #ef1b36;
+}
